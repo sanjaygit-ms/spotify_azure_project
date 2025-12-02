@@ -1,0 +1,9 @@
+{
+	"name": "dfsanspotify",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c74e16f-48f7-49dd-970f-c0deab253753",
+		"tenantId": "06c8128d-2d03-4e98-868c-9f4cb48dfd12"
+	}
+}
